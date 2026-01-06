@@ -200,4 +200,14 @@ input {
     margin-top: 30px;
 }
 
+/*CONVERTIDOR:*/
+
+textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #D6A6D7;
+    width: 80%;
+    resize: none;
+}
+
 
